@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brancuco.github.io/tarjeta_presentacion/build/static/css/main.e6c13ad2.css",
+    "main.js": "/brancuco.github.io/tarjeta_presentacion/build/static/js/main.9278a2bf.js",
+    "static/js/453.81992ef0.chunk.js": "/brancuco.github.io/tarjeta_presentacion/build/static/js/453.81992ef0.chunk.js",
+    "index.html": "/brancuco.github.io/tarjeta_presentacion/build/index.html",
+    "main.e6c13ad2.css.map": "/brancuco.github.io/tarjeta_presentacion/build/static/css/main.e6c13ad2.css.map",
+    "main.9278a2bf.js.map": "/brancuco.github.io/tarjeta_presentacion/build/static/js/main.9278a2bf.js.map",
+    "453.81992ef0.chunk.js.map": "/brancuco.github.io/tarjeta_presentacion/build/static/js/453.81992ef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9278a2bf.js"
+  ]
+}
